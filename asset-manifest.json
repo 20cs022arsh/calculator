@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ec70c653.css",
-    "main.js": "/react-gh-pages/static/js/main.2f502584.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ec70c653.css.map": "/react-gh-pages/static/css/main.ec70c653.css.map",
-    "main.2f502584.js.map": "/react-gh-pages/static/js/main.2f502584.js.map"
+    "main.css": "/calculator/static/css/main.ec70c653.css",
+    "main.js": "/calculator/static/js/main.2f502584.js",
+    "index.html": "/calculator/index.html",
+    "main.ec70c653.css.map": "/calculator/static/css/main.ec70c653.css.map",
+    "main.2f502584.js.map": "/calculator/static/js/main.2f502584.js.map"
   },
   "entrypoints": [
     "static/css/main.ec70c653.css",
